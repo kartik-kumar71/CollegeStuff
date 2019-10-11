@@ -1,0 +1,4 @@
+https://www.geeksforgeeks.org/run-java-class-file-different-directory/
+E:\VIT\Java\Examples\Class and Objects\Test\src>javac -d ../classes Item.java
+E:\VIT\Java\Examples\Class and Objects\Test1\src>javac -d ../classes -cp ../ ../Test/classes ShoppingCart.java
+E:\VIT\Java\Examples\Class and Objects\Test1\classes>java -cp ../../Test/classes; ShoppingCart

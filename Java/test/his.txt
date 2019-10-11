@@ -1,0 +1,500 @@
+   12  /anaconda3/bin/jupyter_mac.command ; exit;
+   13  pip3
+   14  brew install python3
+   15  which python
+   16  which python3
+   17  cd /usr/bin/python
+   18  cd /usr/bin/
+   19  ls
+   20  clear
+   21  clear
+   22  brew postinstall python3
+   23  curl -O https://bootstrap.pypa.io/get-pip.py
+   24  curl -O https://bootstrap.pypa.io/get-pip.py
+   25  ls
+   26  cd ~
+   27  ls
+   28  which python3
+   29  which python
+   30  curl -O https://bootstrap.pypa.io/ez_setup.py
+   31  ls
+   32  curl -O https://bootstrap.pypa.io/ez_setup.py
+   33  sudo curl -O https://bootstrap.pypa.io/ez_setup.py
+   34  python3 ez_setup.py
+   35  brew doctor
+   36  brew link python@2
+   37  which python
+   38  brew doctor
+   39  echo 'export PATH="/usr/local/sbin:$PATH"' >> ~/.bash_profile
+   40  brew doctor
+   41  python3 ez_setup.py
+   42  python --version
+   43  python3 --version
+   44  curl -O https://bootstrap.pypa.io/get-pip.py
+   45  ls
+   46  sudo python3 get-pip.py
+   47  pip3
+   48  pip
+   49  pip3
+   50  brew link --overwrite python
+   51  brew link --overwrite python3
+   52  rm /usr/local/opt/python/bin/python3.7
+   53  rm -r /usr/local/opt/python/bin/python3.7
+   54  which python3
+   55  which pip3
+   56  which pip3.7
+   57  pip3.7
+   58  pip3
+   59  ls -la /usr/local/bin/virtualenv
+   60  pip install virtualenv
+   61  pip uninstall virtualenv
+   62  sudo pip uninstall virtualenv
+   63  which virtualenv
+   64  ls -la /usr/local/bin/virtualenv
+   65  pip3 install virtualenv
+   66  pip install virtualenv
+   67  conda
+   68  export PATH=~/anaconda2/bin:$PATH
+   69  conda
+   70  export PATH=~/anaconda3/bin:$PATH
+   71  conda --version
+   72  export PATH=~/anaconda4/bin:$PATH
+   73  conda --version
+   74  /anaconda3/bin/jupyter_mac.command ; exit;
+   75  /anaconda3/envs/CNNs/bin/jupyter_mac.command ; exit;
+   76  /anaconda3/envs/CNNs/bin/jupyter_mac.command ; exit;
+   77  /anaconda3/envs/CNNs/bin/jupyter_mac.command ; exit;
+   78  python
+   79  pip install opencv
+   80  pip install opencv-python
+   81  sudo pip2 install --upgrade --ignore-installed --install-option '--install-data=/usr/local' numpy
+   82  sudo pip2 install --upgrade --ignore-installed --install-option '--install-data=/usr/local' numpy
+   83  pip install opencv-python
+   84  sudo pip install opencv-python
+   85  import python
+   86  python
+   87  python3
+   88  brew brew info python
+   89  brew info python
+   90  brew switch python
+   91  brew switch python3
+   92  wget https://bootstrap.pypa.io/get-pip.py
+   93  sudo python3 get-pip.py
+   94  pip3
+   95  pip
+   96  python
+   97  clear
+   98  which pip
+   99  which python
+  100  python -m pip list
+  101  pippip2
+  102  pip2
+  103  clear
+  104  which pip2.7
+  105  which pip2
+  106  which pip3
+  107  which pip3.6
+  108  pip3 install
+  109  pip --version
+  110  pip2 --version
+  111  pip3 --version
+  112  pip2.7 --version
+  113  pip2.7 install opencv-python
+  114  pip2 install opencv-python
+  115  which python
+  116  python --version
+  117  pip freeze
+  118  brew tap homebrew/science
+  119  brew install opencv
+  120  cd /usr/local/Cellar
+  121  ls
+  122  cd opencv
+  123  ls
+  124  cd ~
+  125  cat ~/.bash_profile | grep PYTHONPATH
+  126  ln -s /usr/local/Cellar/opencv/2.4.10/lib/python2.7/site-packages/cv.py cv.py
+  127  ln -s /usr/local/Cellar/opencv/2.4.10/lib/python2.7/site-packages/cv2.so cv2.so
+  128  reser
+  129  reset
+  130  source ~/.bash_profile
+  131  python
+  132  which python
+  133  brew install cmake pkg-config
+  134  brew install jpeg libpng libtiff openexr
+  135  sudo pip2 uninstall pip2
+  136  sudo pip2.7 uninstall pip2.7
+  137  sudo pip2.7 uninstall pip3
+  138  brew install jpeg libpng libtiff openexr
+  139  rm -rf ~/anaconda3.
+  140  rm -rf ~/anaconda3
+  141  ls
+  142  cd /
+  143  ls
+  144  cd anaconda3
+  145  ls
+  146  rm -r anaconda3
+  147  cd ..
+  148  rm -r anaconda3
+  149  ls
+  150  rm -r anaconda3
+  151  sudo rm -r anaconda3
+  152  ls
+  153  pip install imutils
+  154  sudo pip install imutilst
+  155  sudo pip install imutils
+  156  python
+  157  enpkg
+  158  clear
+  159  conda
+  160  conda install imutils
+  161  conda update
+  162  conda update --prefix /Users/kartik/anaconda3 anaconda
+  163  conda update --prefix /Users/kartik/anaconda3 anaconda
+  164  conda run
+  165  cat ~/.bash_profile
+  166  cat ~/.bash_profile >con.txt
+  167  rm ~/.bash_profile
+  168  ls
+  169  sudo rm -rf anaconda3
+  170  jupyter notebook
+  171  /Users/kartik/anaconda3/bin/jupyter_mac.command ; exit;
+  172  /Users/kartik/anaconda3/bin/jupyter_mac.command ; exit;
+  173  /Users/kartik/anaconda3/bin/jupyter_mac.command ; exit;
+  174  /Users/kartik/anaconda3/bin/jupyter_mac.command ; exit;
+  175  git --version
+  176  git --version
+  177  git
+  178  clear
+  179  git clone https://github.com/soskill71/Hello-World.git
+  180  ls
+  181  cd Hel*
+  182  ls
+  183  pwd
+  184  git init
+  185  git status
+  186  curl --help
+  187  clear
+  188  curl --help
+  189  clear
+  190  git status
+  191  ls
+  192  pwd
+  193  cp ../Documents/ARMON -r .
+  194  cp ../Documents/ARMON -R .
+  195  cp ../Documents/ARMON/ -R .
+  196  cp ../Documents/ARMON/ -a .
+  197  cp -a ../Documents/ARMON/  .
+  198  ls
+  199  git add *
+  200  git status
+  201  git commit
+  202  git config --global user.email "kartikjodhpur@gmail.com"
+  203  git config --global user.name "soskill71"
+  204  git push
+  205  git status
+  206  ls
+  207  cd ..
+  208  ls
+  209  git push origin amend-my-name
+  210  git push Hello-World amend-my-name
+  211  git push
+  212  git puch git push origin amend-my-name
+  213  clear
+  214  git status
+  215  git commit
+  216  cd Hello-World/
+  217  git commit
+  218  git commit
+  219  git push
+  220  git status
+  221  git pull origin master
+  222  clear
+  223  git
+  224  git status
+  225  git commit -m "added my github name"
+  226  git push origin amend-my-name
+  227  git push origin master
+  228  git pull
+  229  /Users/kartik/anaconda3/bin/jupyter_mac.command ; exit;
+  230  brew install tree
+  231   sudo rm -rf /usr/local/Cellar/python/3.7.2_2
+  232  brew install tree
+  233  tree
+  234  clear
+  235  ls
+  236  cd Documents/
+  237  ls
+  238  tree
+  239  /Users/kartik/anaconda3/bin/jupyter_mac.command ; exit;
+  240  python
+  241  clear
+  242  env
+  243  clear
+  244  nano ~/.bash_profile
+  245  source ~/.bash_profile
+  246  clear
+  247  reset
+  248  python
+  249  kaggle
+  250  /Users/kartik/anaconda3/bin/jupyter_mac.command ; exit;
+  251  &k = 3
+  252  $k = 3
+  253  k = 3
+  254  $KAKA = k
+  255  $KAKA = 2
+  256  clear
+  257  pip install tensorflow-gpu
+  258  conda install tensorflow-gpu
+  259  pip --version
+  260  conda install -c anaconda tensorflow-gpu 
+  261  conda create --name tf_gpu tensorflow-gpu 
+  262  conda doctor
+  263  ls
+  264  clear
+  265  pwd
+  266  nano hash.txt
+  267  nano hash.txt
+  268  cd Documents/ARMON
+  269  ls
+  270  cd assign/
+  271  ls
+  272  rm *.png
+  273  ls
+  274  nano dict.txt
+  275  ssh
+  276  service ssh start
+  277  chown
+  278  python
+  279  python3
+  280  python
+  281  python3
+  282  ls
+  283  touch sy.py
+  284  nano sy.py 
+  285  python sy.py
+  286  python sy.py ashahs
+  287  python sy.py ashahs sdcw we we we we
+  288  cd
+  289  helo=p
+  290  clear
+  291  shutdown
+  292  cd //
+  293  whoami
+  294  sudo su
+  295  sudo su
+  296  eco s
+  297  echo -s
+  298  echo s
+  299  echo madarchod kartik
+  300  $PS1 = '>>'
+  301  export PS1 = '>>'
+  302  export $PS1 = '>>'
+  303  clear
+  304  clear
+  305  python
+  306  brew update
+  307  brew install mongodb
+  308  mongod
+  309  mongod
+  310  sudo chown `whoami` /data/db
+  311  sudo mkdir -p /data/db && sudo chown `whoami` /data/db
+  312  sudo chown `whoami` /data/db
+  313  mongod
+  314  mongod
+  315  mongod
+  316  mongo
+  317  mongod
+  318  mongo
+  319  mongod
+  320  mongod stop
+  321  clear
+  322  mongod
+  323  show pid
+  324  ps
+  325  mongo
+  326  brew services list
+  327  mongod
+  328  mongo
+  329  /Users/kartik/Downloads/chromedriver ; exit;
+  330  pwd
+  331  cd Desktop
+  332  pwd
+  333  python
+  334  pip install selenium
+  335  python
+  336  mongod
+  337  cd Desktop/
+  338  javac j.java
+  339  javac j.java
+  340  javac j.java
+  341  java j.class
+  342  /Users/kartik/Desktop/j.class 
+  343  java j.class
+  344  ls
+  345  java j.class
+  346  javac j.java
+  347  java j.class
+  348  javac j.java
+  349  java j
+  350  python
+  351  mongo
+  352  mongod
+  353  mongo
+  354  mongo
+  355  mongod
+  356  mongo
+  357  mongod
+  358  mongo
+  359  touch first.java
+  360  javac first.java -o java
+  361  javac first.java
+  362  java first
+  363  javac first.java
+  364  javac first.java
+  365  java first
+  366  clear
+  367  pwd
+  368  pwd
+  369  pwd
+  370  cd Unit\ I_Version\ I/
+  371  ls
+  372  clear
+  373  pwd
+  374  ls
+  375  cd Introduction\ to\ Java_Examples_V1/
+  376  clear
+  377  pwd
+  378  ls
+  379  clear
+  380  clear
+  381  pwd
+  382  clear
+  383  javac ifElseExample.java
+  384  java ifElseExample.java
+  385  ls
+  386  grep *.class
+  387  clear
+  388  java ifElseExample.java
+  389  java ifElseExample.java
+  390  javac ifElseExample.java
+  391  java ifElseExample
+  392  javac IfElseExample.java
+  393  java IfElseExample
+  394  pwd
+  395  clear
+  396  javac IfElselfIfExample.java
+  397  javac IfElseIfExample.java
+  398  java IfElseIfExample
+  399  clear
+  400  javac WrappingUnwrapping.java
+  401  java WrappingUnwrapping
+  402  clear
+  403  oasjpdsad
+  404  afsdasd
+  405  sfaa
+  406  clesr
+  407  clear
+  408  reset
+  409  pwd
+  410  javac Type1.java
+  411  javac Type1.java && java Type
+  412  javac Type1.java && java Type1
+  413  clear
+  414  javac ContinueExample.java && java ContinueExample
+  415  javac ContinueExample2.java && java ContinueExample2
+  416  javac ContinueExample3.java && java ContinueExample3
+  417  javac SwitchExample1.java && java SwitchExample1
+  418  javac SwitchExample1.java && java SwitchExample1
+  419  clear
+  420  $PS1
+  421  exho PS1
+  422  echo PS1
+  423  echo $PS1
+  424  echo $PS2
+  425  nano ~/.bash_profile
+  426  clear
+  427  reset
+  428  clear
+  429  ls
+  430  clear
+  431  clear
+  432  pwd
+  433  cd Documents/java
+  434  ls
+  435  cd test
+  436  touch exer1.java
+  437  pwd
+  438  ls
+  439  mv item.java 
+  440  mv exer1.java item.java
+  441  touch ShoppingCart.java
+  442  javac ShoppingCart.java
+  443  javac ShoppingCart.java && java ShoppingCart
+  444  clear
+  445  javac ShoppingCart.java && java ShoppingCart
+  446  javac ShoppingCart.java && java ShoppingCart
+  447  clear
+  448  javac ShoppingCart.java && java ShoppingCart
+  449  javac ShoppingCart.java && java ShoppingCart
+  450  javac ShoppingCart.java && java ShoppingCart
+  451  javac ShoppingCart.java && java ShoppingCart
+  452  javac ShoppingCart.java && java ShoppingCart
+  453  pwd
+  454  ls
+  455  javac ShoppingCart.java && java ShoppingCart
+  456  clear
+  457  javac ShoppingCart.java && java ShoppingCart
+  458  javac ShoppingCart.java && java ShoppingCart
+  459  clear
+  460  javac ShoppingCart.java && java ShoppingCart
+  461  javac ShoppingCart.java && java ShoppingCart
+  462  javac
+  463  javac ShoppingCart.java -classpath ./it/item.java
+  464  javac ShoppingCart.java -classpath ./it
+  465  javac ShoppingCart.java && java ShoppingCart
+  466  javac ShoppingCart.java -classpath ./it
+  467  javac ShoppingCart.java -classpath ./it && java ShoppingCart
+  468  clear
+  469  javac ShoppingCart.java -cp ./it
+  470  java ShoppingCart
+  471  java
+  472  clear
+  473  java ShoppingCart -cp ./it
+  474  java ShoppingCart -cp ./it/
+  475  javac ShoppingCart.java -cp ./it
+  476  java ShoppingCart -cp ./it
+  477  java ShoppingCart -cp ./it
+  478  javac
+  479  javac ShoppingCart.java -sourcepath ./it
+  480  java ShoppingCart
+  481  javac ShoppingCart.java -sourcepath ./it -d .
+  482  java ShoppingCart
+  483  clear
+  484  clear
+  485  javac ShoppingCart.java
+  486  javac ShoppingCart.java
+  487  java ShoppingCart
+  488  clear
+  489  javac ShoppingCart.java
+  490  java ShoppingCart
+  491  clear
+  492  java ShoppingCart
+  493  cler
+  494  clear
+  495  javac ShoppingCart.java
+  496  java ShoppingCart
+  497  javac ShoppingCart.java
+  498  java ShoppingCart
+  499  clear
+  500  pwd
+  501  cd Documents/
+  502  pwd
+  503  ls
+  504  cd java
+  505  ls
+  506  cd test
+  507  ls
+  508  clear
+  509  pwd
+  510  clear
+  511  history > his.txt
