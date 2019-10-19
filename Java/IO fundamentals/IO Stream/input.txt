@@ -1,0 +1,3 @@
+This is test for copy file.
+hi
+how are you?
