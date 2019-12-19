@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_marginTop="75dp"
+    android:background="#EAF0F1">
+
+    <TextView
+        android:gravity="center"
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:text="List Application"
+        android:textSize="36dp"
+        android:textColor="#25CCF7"/>
+
+    <CheckBox
+        android:textColor="#EA7773"
+        android:id="@+id/check1"
+        android:layout_marginLeft="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="C++"
+        android:textSize="25dp"
+        android:layout_marginTop="50dp"/>
+
+    <CheckBox
+        android:textColor="#EA7773"
+        android:id="@+id/check2"
+        android:layout_marginLeft="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Python"
+        android:textSize="25dp"/>
+
+    <CheckBox
+        android:textColor="#EA7773"
+        android:layout_marginLeft="20dp"
+        android:id="@+id/check3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Swift"
+        android:textSize="25dp"/>
+
+    <CheckBox
+        android:textColor="#EA7773"
+        android:layout_marginLeft="20dp"
+        android:id="@+id/check4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Kotlin"
+        android:textSize="25dp"/>
+
+    <CheckBox
+        android:textColor="#EA7773"
+        android:layout_marginLeft="20dp"
+        android:id="@+id/check5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="TypeScript"
+        android:textSize="25dp"/>
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Button"
+        android:layout_marginTop="60dp"
+        android:layout_marginLeft="150dp"
+        android:layout_marginRight="150dp"/>
+
+
+</LinearLayout>

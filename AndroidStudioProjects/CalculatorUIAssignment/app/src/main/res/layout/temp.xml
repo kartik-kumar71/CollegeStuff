@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#00CCCD">
+
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:text="VIT BHOPAL"
+        android:textSize="50dp" />
+    <TableLayout
+        android:background="#00CCCD"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_gravity="top">
+
+        <TableRow android:layout_height="match_parent">
+
+            <EditText
+                android:hint="Number 1"
+                android:background="#ffffff"
+                android:id="@+id/num1"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:ems="10"
+                android:inputType="number"
+                android:textSize="30dp"
+                android:layout_marginLeft="5dp"/>
+
+
+        </TableRow>
+    </TableLayout>
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_gravity="top">
+
+        <TableRow android:layout_height="match_parent">
+
+            <EditText
+                android:hint="Number 2"
+                android:background="#ffffff"
+                android:id="@+id/num2"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:ems="10"
+                android:inputType="number"
+                android:textSize="30dp"
+                android:layout_marginLeft="5dp"/>
+
+
+        </TableRow>
+    </TableLayout>
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top">
+
+        <TableRow android:layout_height="wrap_content">
+
+            <Button
+                android:id="@+id/add"
+                android:layout_width="111dp"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="60dp"
+                android:layout_marginTop="50dp"
+                android:text="+" />
+            <Button
+                android:id="@+id/sub"
+                android:layout_width="111dp"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="60dp"
+                android:layout_marginTop="50dp"
+                android:text="-" />
+
+        </TableRow>
+    </TableLayout>
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top">
+
+        <TableRow android:layout_height="wrap_content">
+
+            <Button
+                android:id="@+id/mult"
+                android:layout_width="111dp"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="60dp"
+                android:layout_marginTop="50dp"
+                android:text="*"/>
+            <Button
+                android:id="@+id/div"
+                android:layout_width="111dp"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="60dp"
+                android:layout_marginTop="50dp"
+                android:text="/"/>
+
+        </TableRow>
+    </TableLayout>
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top">
+
+        <TableRow android:layout_height="wrap_content">
+
+            <Button
+                android:id="@+id/mod"
+                android:layout_width="111dp"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="150dp"
+                android:layout_marginTop="50dp"
+                android:text="%"/>
+        </TableRow>
+    </TableLayout>
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top">
+
+        <TableRow android:layout_height="wrap_content">
+
+            <Button
+                android:id="@+id/reset"
+                android:layout_width="111dp"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="150dp"
+                android:layout_marginTop="50dp"
+                android:text="Reset"/>
+        </TableRow>
+    </TableLayout>
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top">
+        <TableRow android:layout_height="wrap_content">
+
+            <TextView
+                android:textSize="36dp"
+                android:layout_width="165dp"
+                android:layout_height="74dp"
+                android:layout_marginLeft="125dp"
+                android:layout_marginTop="50dp"
+                android:text="Result = " />
+        </TableRow>
+
+    </TableLayout>
+</TableLayout>

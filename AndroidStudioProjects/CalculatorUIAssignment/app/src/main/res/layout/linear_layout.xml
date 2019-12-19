@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#00CCCD">
+
+    <TextView
+        android:id="@+id/vit"
+        android:layout_width="match_parent"
+        android:layout_height="99dp"
+        android:gravity="center"
+        android:text="VIT BHOPAL"
+        android:textSize="36dp" />
+
+    <EditText
+        android:background="#ffffff"
+        android:id="@+id/num1"
+        android:textSize="30dp"
+        android:layout_width="match_parent"
+        android:layout_height="99dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:hint="Number 1" />
+
+    <EditText
+        android:id="@+id/num2"
+        android:textSize="30dp"
+        android:layout_width="match_parent"
+        android:layout_height="99dp"
+        android:background="#ffffff"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:hint="Number 2"/>
+
+    <TextView
+        android:id="@+id/result"
+        android:layout_width="match_parent"
+        android:layout_height="99dp"
+        android:gravity="center"
+        android:text="Result = 0"
+        android:textSize="36sp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:textSize="20dp"
+            android:id="@+id/add"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="+"
+            android:onClick="addPressed"/>
+
+        <Button
+            android:textSize="20dp"
+            android:id="@+id/sub"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="-"
+            android:onClick="subPressed"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:textSize="20dp"
+            android:id="@+id/mult"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="*"
+            android:onClick="multPressed"/>
+
+        <Button
+            android:textSize="20dp"
+            android:id="@+id/div"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="/"
+            android:onClick="divPressed"/>
+    </LinearLayout>
+
+    <Button
+        android:textSize="20dp"
+        android:id="@+id/mod"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="%"
+        android:onClick="modPressed"/>
+
+    <Button
+        android:textSize="20dp"
+        android:id="@+id/reset"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Reset"
+        android:onClick="resetPressed"/>
+
+</LinearLayout>
