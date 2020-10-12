@@ -45,5 +45,5 @@ $("#dm").on("click", function() {
     var w = $("div.rectangle").width();
     var h = $("div.rectangle").height();
     $("div.rectangle").prepend("<p>"+w+"</p>");
-    $("div.rectangle").prepend("<p>"+h+"</p>")
+    $("div.rectangle").prepend("<p>"+h+"</p>");
 });
